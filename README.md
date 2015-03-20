@@ -1,0 +1,1 @@
+Please read the current [release notes](3_0_release_notes.md) for more info.
